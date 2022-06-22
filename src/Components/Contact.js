@@ -118,29 +118,25 @@ class Contact extends Component {
               </div>
 
               <div className="widget widget_tweets">
-                <h4 className="widget-title">Latest Tweets</h4>
+                <h4 className="widget-title">Remember :</h4>
                 <ul id="twitter">
                   <li>
                     <span>
-                      This is Photoshop's version of Lorem Ipsum. Proin gravida
-                      nibh vel velit auctor aliquet. Aenean sollicitudin, lorem
-                      quis bibendum auctor, nisi elit consequat ipsum
-                      <a href="./">http://t.co/CGIrdxIlI3</a>
+                      The first thing that happens in a disaster is the
+                      breakdown of endogroups and hierarchy and the
+                      establishment of altruistic exosocial aid.
                     </span>
                     <b>
-                      <a href="./">2 Days Ago</a>
+                      <a href="./">.....</a>
                     </b>
                   </li>
                   <li>
                     <span>
-                      Sed ut perspiciatis unde omnis iste natus error sit
-                      voluptatem accusantium doloremque laudantium, totam rem
-                      aperiam, eaque ipsa quae ab illo inventore veritatis et
-                      quasi
-                      <a href="./">http://t.co/CGIrdxIlI3</a>
+                      An individual can make a change but a team can make a
+                      revolution.
                     </span>
                     <b>
-                      <a href="./">3 Days Ago</a>
+                      <a href="./">.....</a>
                     </b>
                   </li>
                 </ul>
